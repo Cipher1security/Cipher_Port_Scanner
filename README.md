@@ -17,6 +17,20 @@ It supports scanning IPs, hostnames, CIDR ranges, or manual input, with concurre
 
 ---
 
+## Usage
+
+```bash
+git clone https://github.com/Cipher1security/Cipher_Port_Scanner.git
+
+cd Cipher_Port_Scanner
+
+python3 cipher_port_scanner.py
+```
+#### Help
+
+```bash
+python3 cipher_port_scanner.py -h
+```
 Install dependencies:
 
 ```bash
